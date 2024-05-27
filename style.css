@@ -21,7 +21,7 @@ body {
 .site__title-text {
     background: -webkit-linear-gradient(
         34deg,
-        var(--color-purple),
+        var(--color-blue),
         var(--color-pink)
     );
     -webkit-background-clip: text;
